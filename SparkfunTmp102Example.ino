@@ -1,3 +1,9 @@
+/*
+The Circuit
+A4 = SDA	(Source Data)
+A5 = CLK	(Clock)
+Power and Ground
+*/
 
 #include "wire.h"
 
