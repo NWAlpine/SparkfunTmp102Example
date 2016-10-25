@@ -15,6 +15,7 @@ void loop()
 	Serial.print("Celcius: ");
 	Serial.println(celsius);
 
+	// calculate F
 	float faharenheight = (1.8 * celsius) + 32;
 	Serial.print("Faharenheight: ");
 	Serial.println(faharenheight);
