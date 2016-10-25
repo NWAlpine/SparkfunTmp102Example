@@ -2,7 +2,8 @@
 The Circuit
 A4 = SDA	(Source Data)
 A5 = CLK	(Clock)
-Power and Ground
+3.3V Power 
+Ground
 */
 
 #include "wire.h"
